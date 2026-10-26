@@ -113,8 +113,8 @@
     },
     {
       "path": ".github/workflows/verify.yml",
-      "sha256": "7813f0fb583119a8fbe7bafc661ac43f0e7727a8e0ea85b4c3fec42266c2b652",
-      "bytes": 962
+      "sha256": "7cda76482307a6747e02e7f5f959793bd5dcf7876707ac64a2dac4788be2b1b6",
+      "bytes": 970
     },
     {
       "path": ".gitignore",
@@ -393,8 +393,8 @@
     },
     {
       "path": "tools/build_document.py",
-      "sha256": "658f82f9d931557e047392ddf9cf006fd3f21e451710106b483f4943ba6bf37b",
-      "bytes": 2553
+      "sha256": "c6464290f27418d2c7ae5f4331d752de75ec1624db7240b0b9bb9a28df09a928",
+      "bytes": 2648
     },
     {
       "path": "tools/check_repository.py",

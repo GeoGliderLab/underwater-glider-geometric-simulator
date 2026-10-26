@@ -21,6 +21,7 @@ def main():
                                 capture_output=True, text=True, encoding='utf-8', errors='replace')
         (DOC / f'compile-{attempt}.txt').write_text(result.stdout + result.stderr, encoding='utf-8')
         if result.returncode:
+            print('\n'.join((result.stdout+result.stderr).splitlines()[-60:]),file=sys.stderr)
             raise SystemExit(f'LaTeX failed; inspect docs/equations/compile-{attempt}.txt')
     log_path = DOC / 'glider_equations.log'
     log = log_path.read_text(encoding='utf-8', errors='replace')

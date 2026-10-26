@@ -28,6 +28,6 @@ jobs:
       - name: Install LaTeX
         run: |
           sudo apt-get update -qq
-          sudo apt-get install -y --no-install-recommends texlive-latex-base texlive-latex-extra texlive-fonts-recommended
+          sudo apt-get install -y --no-install-recommends texlive-latex-base texlive-latex-extra texlive-fonts-recommended lmodern
       - name: Rebuild English equation document
         run: python tools/build_document.py
