@@ -1,0 +1,23 @@
+{
+  "matlab": "26.1.0.3312084 (R2026a) Update 4",
+  "states": 25,
+  "exp_error": 2.7720603241581293E-14,
+  "jacobian_error": 4.6891071581178778E-10,
+  "mass_error": 3.2903644177439237E-10,
+  "bias_error": 2.4475352300434849E-12,
+  "gravity_error": 5.9686215081455885E-8,
+  "water_derivative_error": 1.4999512678244119E-11,
+  "open_energy_rate_error": 1.3485354255493576E-7,
+  "max_hydro_power": -0.053578839604015292,
+  "lift_power_error": 1.8873791418627661E-15,
+  "min_mass_eigenvalue": 0.0014154861360438844,
+  "rnea_error": 3.730349362740526E-14,
+  "neutral_q4": 0.049992575135301372,
+  "internal_clearance": 0.009099999999999997,
+  "momentum_error": 1.1844612890424903E-6,
+  "momentum_error_half_step": 2.9616383749098431E-7,
+  "energy_error": 7.6777391723176073E-9,
+  "energy_error_half_step": 1.9203755465550407E-9,
+  "hybrid_roundtrip": 7.5921828257996974E-16,
+  "status": "PASS"
+}

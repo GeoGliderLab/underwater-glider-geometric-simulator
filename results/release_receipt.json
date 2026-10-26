@@ -1,0 +1,425 @@
+{
+  "date": "2026-10-26",
+  "version": "0.1.0",
+  "status": "PASS",
+  "pdf_pages": 15,
+  "repository": "https://github.com/GeoGliderLab/underwater-glider-geometric-simulator",
+  "matlab_files_analyzed": 27,
+  "files": [
+    {
+      "path": "+glider/config.m",
+      "sha256": "3eb590976d01d51dc93b16daae03ec92cc83531c0f6082920d8034b33c985d88",
+      "bytes": 496
+    },
+    {
+      "path": "+glider/draw_robot.m",
+      "sha256": "749304543ff132b7c22e6ff37ba831424ae5b3783af72fe1fa2e7da62a3aa706",
+      "bytes": 3797
+    },
+    {
+      "path": "+glider/dynamics.m",
+      "sha256": "1fecd959518ec2995d8e30d437983ff478abcf766d79b0fa17d826dc20904693",
+      "bytes": 1703
+    },
+    {
+      "path": "+glider/energy.m",
+      "sha256": "bd19b63c2fc26e4bdc9aa3d54106c2f241f09d4574c855fb6881d884d4d14860",
+      "bytes": 173
+    },
+    {
+      "path": "+glider/exp_se3.m",
+      "sha256": "5524cad0b01dc6f924ab95ba4821387eca252602234583b0bc81d0dc20273eb7",
+      "bytes": 424
+    },
+    {
+      "path": "+glider/forward_dynamics.m",
+      "sha256": "994d64001181d36d387dcd8f9da79e5ffd1b57d7f5bf479e4dd474e26648efea",
+      "bytes": 291
+    },
+    {
+      "path": "+glider/hybrid_dynamics.m",
+      "sha256": "c66177dae2293402459bf62df20984bda145c3803ab59ea872e4ee941515b020",
+      "bytes": 329
+    },
+    {
+      "path": "+glider/hydrodynamics.m",
+      "sha256": "da0915d1f0db320c6958fec1051409c5539f2367d6110f5f33e4c4a048d20276",
+      "bytes": 754
+    },
+    {
+      "path": "+glider/inverse_dynamics.m",
+      "sha256": "a3ca47e8103a2304003ce0d90a365f880264b28ab0f206bb5d261079f65e09f7",
+      "bytes": 1255
+    },
+    {
+      "path": "+glider/kinematics.m",
+      "sha256": "20953d8c615b8e47b677efd9e81b8e3f6393b3510677dcf83a1fd00c9610604c",
+      "bytes": 663
+    },
+    {
+      "path": "+glider/model.m",
+      "sha256": "6282512d2acd63ea1e0ca03410976a52f3c65a196d2b899927c1ce9391297c0c",
+      "bytes": 2020
+    },
+    {
+      "path": "+glider/momentum.m",
+      "sha256": "feee4c34b7a863c4b477f3d5c78d3af4faa7522156be37cee2578efd997a0707",
+      "bytes": 304
+    },
+    {
+      "path": "+glider/parameters.m",
+      "sha256": "f5de839b2cb37f78b08dc9c0078939f65bf09ca099914d8fc65609f8e499e085",
+      "bytes": 2203
+    },
+    {
+      "path": "+glider/plot_results.m",
+      "sha256": "3aa7abe4547d145215662d1da7ec3d89728e8609087ec9eaffa45f9319b4e76d",
+      "bytes": 3804
+    },
+    {
+      "path": "+glider/pump_load.m",
+      "sha256": "431cd4d9954ec8a13e867a7e47ea6f52a25f2bcebee7534cc4e601ea85cafcf8",
+      "bytes": 634
+    },
+    {
+      "path": "+glider/reference.m",
+      "sha256": "ddbd5c9edcafde2035adbb3f3dc4de0969e4abbfdf2242f6c1f49f906f757dd2",
+      "bytes": 506
+    },
+    {
+      "path": "+glider/simulate.m",
+      "sha256": "9345c1ca492cc2a0a40b65ed473b5159d18ce2c0805bcbb72e7eb298de5bf4ee",
+      "bytes": 2648
+    },
+    {
+      "path": "+glider/spatial_inertia.m",
+      "sha256": "9c7b1cc17cab489b35d9375e1489af62ab88801a06158cac8edf6adba43e279f",
+      "bytes": 160
+    },
+    {
+      "path": "+glider/water.m",
+      "sha256": "02cdc104ab0ad0bd23dc1aabd7c73fb4699362f6003d1c010a19e4ba4e02be05",
+      "bytes": 798
+    },
+    {
+      "path": "+glider/write_json.m",
+      "sha256": "e465c06c7359e5a353a4139bb747eb9a4e395ffc4f508222c530e50a53246c9a",
+      "bytes": 259
+    },
+    {
+      "path": ".gitattributes",
+      "sha256": "305046907634f612a9f852b1ffabf1484334411e5fe3f01794258785870c2017",
+      "bytes": 396
+    },
+    {
+      "path": ".github/workflows/verify.yml",
+      "sha256": "7813f0fb583119a8fbe7bafc661ac43f0e7727a8e0ea85b4c3fec42266c2b652",
+      "bytes": 962
+    },
+    {
+      "path": ".gitignore",
+      "sha256": "4fb2cef4dd03ea6f6b36b8877843ec39deb3d03486a50284db5e9ccbbe808697",
+      "bytes": 647
+    },
+    {
+      "path": "AUTHORS.md",
+      "sha256": "e70660e556d73d2017162656abb6decc2b9488243b5ddc4749f5de0ea0cfb839",
+      "bytes": 514
+    },
+    {
+      "path": "CHANGELOG.md",
+      "sha256": "90921f72772b161d81b9163f39bb66dc1ce1839d03446a52204b2e66ee928953",
+      "bytes": 497
+    },
+    {
+      "path": "CONTRIBUTING.md",
+      "sha256": "8ca724e3eb824333a387b0e3f6536c0f80b86aaf5f2531a587780e4aa93c712b",
+      "bytes": 1424
+    },
+    {
+      "path": "docs/equations/glider_equations.pdf",
+      "sha256": "5e2c2527dc0ab8c48cd75f90248bd76a237c8afae647aed76d4b51247baa23c0",
+      "bytes": 947138
+    },
+    {
+      "path": "docs/equations/glider_latex_source.zip",
+      "sha256": "aba300e1de3b2a5b68d7eea34bb73b2dc254f9731d3ba0cda50d08c920001247",
+      "bytes": 577852
+    },
+    {
+      "path": "docs/equations/images/actuation.png",
+      "sha256": "df0fd6d2cee4420090f789c0a668418b35d9e8c26c77de85841bb32895e7a613",
+      "bytes": 149330
+    },
+    {
+      "path": "docs/equations/images/diagnostics.png",
+      "sha256": "3f488b350528110117110ad87c1f1728b2b5b6777eb6539998785f7da0dcd1f5",
+      "bytes": 59236
+    },
+    {
+      "path": "docs/equations/images/glider_preview.png",
+      "sha256": "211a300ebd2959128e5df13ebc637d94e1f52e62ac1a8a80f100bfdc74a4e804",
+      "bytes": 155563
+    },
+    {
+      "path": "docs/equations/images/simulation.png",
+      "sha256": "92ecd3d5863aa0b62a4cc84cf776a1936c47b7c38fd8e7ea2baeb32435395c8e",
+      "bytes": 238182
+    },
+    {
+      "path": "docs/equations/main.tex",
+      "sha256": "50462e65efcc9e02b89485f21c4586cd85ade60103a83e24c503e5876cff20da",
+      "bytes": 29342
+    },
+    {
+      "path": "docs/equations/metrics.tex",
+      "sha256": "af0a28732ad99cf7fc42c1ef49651ed617a6ae1182fbfd660cb46e3d94eda6cc",
+      "bytes": 944
+    },
+    {
+      "path": "docs/equations/README.md",
+      "sha256": "f2c24100aca19515b4d7d948178d6434048225695c9eca4f2c1f0a5a6f5d3bff",
+      "bytes": 1777
+    },
+    {
+      "path": "docs/PARAMETERS.md",
+      "sha256": "e34bf2e7259b736519e5299b6d5904b35e4530ad744d2b762e2780ee2e1f9237",
+      "bytes": 2981
+    },
+    {
+      "path": "docs/SOURCE_AUDIT.md",
+      "sha256": "807b736f041d08fbc6565702f6934747f20daafb94b2f3a5adee6729de4afea6",
+      "bytes": 3955
+    },
+    {
+      "path": "docs/VALIDATION.md",
+      "sha256": "07a32ca09fc195807585bc8a7a59e0deb19df590ff20b64a5f93833d340606c8",
+      "bytes": 2601
+    },
+    {
+      "path": "examples/animate_glider.m",
+      "sha256": "3ddf4b6c80c865b16e7bbdb8c408bd27a881d4deaf31692ca58b9e748eccc542",
+      "bytes": 1659
+    },
+    {
+      "path": "examples/run_effort_demo.m",
+      "sha256": "8772c2a3ebb471c58cc37e5451d9c13f130e9282834ec2497e069fa940ce733f",
+      "bytes": 681
+    },
+    {
+      "path": "LICENSE",
+      "sha256": "01d62300630e0a0144353639632896368bcb30d7d986fd95101bfb6229f6a8bf",
+      "bytes": 1080
+    },
+    {
+      "path": "README.md",
+      "sha256": "90ddc75b9682ed2205fe37f461111d13ddec7e089eb6c5944f2f4cad6ee36c3b",
+      "bytes": 7022
+    },
+    {
+      "path": "results/actuation.png",
+      "sha256": "df0fd6d2cee4420090f789c0a668418b35d9e8c26c77de85841bb32895e7a613",
+      "bytes": 149330
+    },
+    {
+      "path": "results/benchmark.json",
+      "sha256": "4affbad156d8e5d83423dbdff035792a0255640024d2937730f9fb04318e23f5",
+      "bytes": 116
+    },
+    {
+      "path": "results/code_analysis.json",
+      "sha256": "0d1a23db6228e29060ef63cd805083531a7dd45656c592afb51ea95a226fcd2b",
+      "bytes": 42
+    },
+    {
+      "path": "results/demo.mat",
+      "sha256": "a171951fee7a63740801d05548cd33da3cc888c3488129c7f9eb8efe4247122b",
+      "bytes": 807883
+    },
+    {
+      "path": "results/demo_summary.json",
+      "sha256": "14529f550643c811d4d675d6c6bced66919bf0e4efec67d0f2740aa02a3978b0",
+      "bytes": 706
+    },
+    {
+      "path": "results/diagnostics.png",
+      "sha256": "3f488b350528110117110ad87c1f1728b2b5b6777eb6539998785f7da0dcd1f5",
+      "bytes": 59236
+    },
+    {
+      "path": "results/document_review.json",
+      "sha256": "2ef9f2dec0d2669339463b2836983cdfbbee0c2ef855c384284664bb0a843435",
+      "bytes": 335
+    },
+    {
+      "path": "results/effort_demo.mat",
+      "sha256": "bef79c751d14d70c751d008fd7a7f7f0992a5dae4205a379be45745b78698c23",
+      "bytes": 120416
+    },
+    {
+      "path": "results/glider_demo.mp4",
+      "sha256": "37cf77ca811ecaba7cd631ed46fa09d19ceff2a29c8c08c04a54d49bc3827f55",
+      "bytes": 2223655
+    },
+    {
+      "path": "results/glider_preview.gif",
+      "sha256": "0b946e987be86ebee5ae5d56ce4185463ef6025ac2e525e67b6efdb63f8f05d2",
+      "bytes": 3164844
+    },
+    {
+      "path": "results/glider_preview.png",
+      "sha256": "211a300ebd2959128e5df13ebc637d94e1f52e62ac1a8a80f100bfdc74a4e804",
+      "bytes": 155563
+    },
+    {
+      "path": "results/latex_validation.json",
+      "sha256": "2a4d8e46fcd79c6207149e62075138612397654c27768e35578950f1fbffaf5b",
+      "bytes": 420
+    },
+    {
+      "path": "results/simulation.png",
+      "sha256": "92ecd3d5863aa0b62a4cc84cf776a1936c47b7c38fd8e7ea2baeb32435395c8e",
+      "bytes": 238182
+    },
+    {
+      "path": "results/validation.json",
+      "sha256": "c1efba6b1c494947b855a363dd74113a8a081b3ca2141042d82c2a8cbec860c5",
+      "bytes": 890
+    },
+    {
+      "path": "run_glider_demo.m",
+      "sha256": "fdfa07dcba8e1719f8ea76ccedb86aaec3eb77b033e5ed87c9f26337c7b37f73",
+      "bytes": 1753
+    },
+    {
+      "path": "setup_glider.m",
+      "sha256": "d67fdc531db34c11d6f52b1a074e22a2afae0484ddd458581537e81fb053f5f4",
+      "bytes": 210
+    },
+    {
+      "path": "sources/audit_numbers.json",
+      "sha256": "6daefc3f2341b0e9721c80f89e124c898c9766f46429e754b75fbd6c86987702",
+      "bytes": 754
+    },
+    {
+      "path": "sources/manifest.json",
+      "sha256": "2cf7a7d598fabea2b14508218d26576aedc016a233ce6a34764fd982f41c926a",
+      "bytes": 5396
+    },
+    {
+      "path": "tests/validate_glider.m",
+      "sha256": "31734ee621dacf6e2a8515d0888215a6a1d35f50e9d531241e5fc29d8df59535",
+      "bytes": 7052
+    },
+    {
+      "path": "third_party/modern_robotics/ad.m",
+      "sha256": "7cd227fb452916a2d5878b32790641ba2aad9f94eb651b08ed8473b4500d19ad",
+      "bytes": 614
+    },
+    {
+      "path": "third_party/modern_robotics/Adjoint.m",
+      "sha256": "fa4837f58760acf8d63a09df12d68ce365d1ccec94e7c772e5b3254de26c33b6",
+      "bytes": 603
+    },
+    {
+      "path": "third_party/modern_robotics/AxisAng3.m",
+      "sha256": "399e0c447dc1be6c9c37d51c7a71a31aae16e1e611ba9f09c00c79b9e9050bdb",
+      "bytes": 454
+    },
+    {
+      "path": "third_party/modern_robotics/LICENSE",
+      "sha256": "fceef33c97fed32a270a56069bb45c108e473dfd1642c2648fa84779a9455d88",
+      "bytes": 1063
+    },
+    {
+      "path": "third_party/modern_robotics/MatrixExp3.m",
+      "sha256": "cbe84863be13ec583ff02b3944dde806f2da6237201a43130e4777154cfd71a3",
+      "bytes": 703
+    },
+    {
+      "path": "third_party/modern_robotics/MatrixExp6.m",
+      "sha256": "748c9a4cca65dc3c6dd063d0f6f080c13c827c7f451bbf16e002902c9bc5c5e3",
+      "bytes": 1118
+    },
+    {
+      "path": "third_party/modern_robotics/NearZero.m",
+      "sha256": "72a9fdccd78f48f527c383b5d0a5bf79539f0e159df71fded215215732e9dacc",
+      "bytes": 278
+    },
+    {
+      "path": "third_party/modern_robotics/se3ToVec.m",
+      "sha256": "43f906673c8d6b7342ac8bf621ceddf41481ea6e70c91204d02ee99a67701939",
+      "bytes": 439
+    },
+    {
+      "path": "third_party/modern_robotics/so3ToVec.m",
+      "sha256": "8ba3abe03e4a6f91a717ce689641947466589db6d33b938652697459cb0f1feb",
+      "bytes": 398
+    },
+    {
+      "path": "third_party/modern_robotics/TransInv.m",
+      "sha256": "bf7130d641eb9e0fff6ed2ba94cb29e145abe18ae24b65e46551ee3a0bde7c0c",
+      "bytes": 554
+    },
+    {
+      "path": "third_party/modern_robotics/TransToRp.m",
+      "sha256": "2c95bb8a741c1625514b500ec3b5ef7747f1907a5dac7c4b66838c69baec9a0e",
+      "bytes": 484
+    },
+    {
+      "path": "third_party/modern_robotics/VecTose3.m",
+      "sha256": "e2716ef82edd5aec6a44e9a99b28fb5af26783c3f7e3fb3508a021a7e6cfeb7f",
+      "bytes": 437
+    },
+    {
+      "path": "third_party/modern_robotics/VecToso3.m",
+      "sha256": "2d9a30091126feb1435ef5b8e1ade8a99f9ca5c50ea4c7937736d1a0856fad58",
+      "bytes": 394
+    },
+    {
+      "path": "THIRD_PARTY_NOTICES.md",
+      "sha256": "dffb23d2800c9ceebcca94d2f00cf2b255b843626c0e193a735dbabd45cce393",
+      "bytes": 1188
+    },
+    {
+      "path": "tools/benchmark_glider.m",
+      "sha256": "0ab29ac9e4beff2c0a2abd7bf4916ed5fda9c49ddde0b7fb667ace2edf657ba7",
+      "bytes": 494
+    },
+    {
+      "path": "tools/build_document.ps1",
+      "sha256": "006558117e4c0e62402e421aaab098f563971eee4a5efc073929abb68bd65046",
+      "bytes": 180
+    },
+    {
+      "path": "tools/build_document.py",
+      "sha256": "658f82f9d931557e047392ddf9cf006fd3f21e451710106b483f4943ba6bf37b",
+      "bytes": 2553
+    },
+    {
+      "path": "tools/check_repository.py",
+      "sha256": "04e0ad20ae08c66220af3eb3cc7d0668b7107cb37405b2680f0d507d63c29eda",
+      "bytes": 2602
+    },
+    {
+      "path": "tools/export_preview_frames.m",
+      "sha256": "7a144cbba3a2e3db7ec00d1f9f4ea2712d9df9928b81740ffb75111b8eb81cfa",
+      "bytes": 479
+    },
+    {
+      "path": "tools/make_preview.py",
+      "sha256": "063065a8c51f3e6c2f427b6ed326b8a46c45f5cca55ba240bdca9a84d9d111e0",
+      "bytes": 726
+    },
+    {
+      "path": "tools/prepare_document.py",
+      "sha256": "3fe60f840bdfe923a303662a200c4b9f70d176949c27593d5edbdec2a919de31",
+      "bytes": 1971
+    },
+    {
+      "path": "tools/verify_sources.py",
+      "sha256": "a269175e7609344ccb735eda8262b5155a5ec375ef5820b8056814128ff77705",
+      "bytes": 863
+    }
+  ]
+}

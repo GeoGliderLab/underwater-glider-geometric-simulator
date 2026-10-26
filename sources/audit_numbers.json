@@ -1,0 +1,24 @@
+{
+  "source_mass_inertial_kg": 10.7799631842,
+  "source_mass_gravity_kg": 10.78,
+  "mass_difference_kg": -3.681579999970097e-05,
+  "source_com_from_inertia_z_m": -0.01430000477106824,
+  "source_com_used_for_gravity_z_m": -0.0225,
+  "source_J_origin_diagonal": [
+    0.16560600240108,
+    0.16548354540108,
+    0.8981887009760999
+  ],
+  "source_J_com_diagonal": [
+    0.1634016062585892,
+    0.16327914925858922,
+    0.8981887009760999
+  ],
+  "triangle_violation_kg_m2": 0.5715079454589215,
+  "nominal_cylinder_volume_m3": 0.01081060673689887,
+  "effective_displacement_m3": 0.012096,
+  "water_capacity_kg": 0.3318307240354219,
+  "neutral_piston_m": 0.04999257513530137,
+  "source_max_radial_com_m": 0.13,
+  "proposed_max_radial_visual_extent_m": 0.098
+}

@@ -1,0 +1,12 @@
+{
+  "status": "PASS",
+  "compiler_exit_code": 0,
+  "pages": 15,
+  "log_path": "docs/equations/glider_equations.log",
+  "log_sha256": "6f6b7c8097d149e21d33634daed67530fe5bce6ae0f3b69428818c1754d52f48",
+  "source_sha256": "50462e65efcc9e02b89485f21c4586cd85ade60103a83e24c503e5876cff20da",
+  "undefined_reference_or_citation_count": 0,
+  "overfull_hbox_count": 0,
+  "underfull_hbox_count": 0,
+  "rerun_warning_count": 0
+}

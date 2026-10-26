@@ -1,0 +1,36 @@
+sources/private/
+tmp/
+*.asv
+*.m~
+docs/ecuaciones/*.aux
+docs/ecuaciones/*.log
+docs/ecuaciones/*.out
+docs/ecuaciones/*.toc
+docs/ecuaciones/compile-*.txt
+docs/ecuaciones/*.synctex.gz
+results/*matlab.log
+
+# Local original inputs and prepublication material.
+docs/ecuaciones/
+docs/REVIEW_NOTES.md
+handoff/
+tools/record_sources.py
+results/animation_frame.png
+
+# LaTeX and development intermediates.
+*.aux
+*.log
+*.out
+*.toc
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+compile-*.txt
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+
+# Required document figures override broad machine-wide preview ignores.
+!results/glider_preview.png
+!docs/equations/images/glider_preview.png

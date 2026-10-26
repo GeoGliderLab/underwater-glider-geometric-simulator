@@ -1,0 +1,128 @@
+{
+  "date": "2026-10-26",
+  "version": "0.1.0",
+  "files": [
+    {
+      "path": "sources/private/codigo_modi.m",
+      "original": "User-supplied private input: codigo_modi.m",
+      "sha256": "aadbbe3afba9c36c6a3e40d2123099a689f2cec8b0d87e92d73c128ec905808b",
+      "private": true
+    },
+    {
+      "path": "sources/private/original_equations.pdf",
+      "original": "User-supplied private input: original_equations.pdf",
+      "sha256": "21c407872e2925d34f7e0003d9bd2dd5d49a89f9383168ed0ae5f76accfd93a5",
+      "private": true
+    },
+    {
+      "path": "third_party/modern_robotics/ad.m",
+      "original": "Franka-Panda-Geometric-Simulator/third_party/modern_robotics/ad.m",
+      "sha256": "7cd227fb452916a2d5878b32790641ba2aad9f94eb651b08ed8473b4500d19ad",
+      "license": "MIT"
+    },
+    {
+      "path": "third_party/modern_robotics/Adjoint.m",
+      "original": "Franka-Panda-Geometric-Simulator/third_party/modern_robotics/Adjoint.m",
+      "sha256": "fa4837f58760acf8d63a09df12d68ce365d1ccec94e7c772e5b3254de26c33b6",
+      "license": "MIT"
+    },
+    {
+      "path": "third_party/modern_robotics/AxisAng3.m",
+      "original": "Franka-Panda-Geometric-Simulator/third_party/modern_robotics/AxisAng3.m",
+      "sha256": "399e0c447dc1be6c9c37d51c7a71a31aae16e1e611ba9f09c00c79b9e9050bdb",
+      "license": "MIT"
+    },
+    {
+      "path": "third_party/modern_robotics/LICENSE",
+      "original": "Franka-Panda-Geometric-Simulator/third_party/modern_robotics/LICENSE",
+      "sha256": "fceef33c97fed32a270a56069bb45c108e473dfd1642c2648fa84779a9455d88",
+      "license": "MIT"
+    },
+    {
+      "path": "third_party/modern_robotics/MatrixExp3.m",
+      "original": "Franka-Panda-Geometric-Simulator/third_party/modern_robotics/MatrixExp3.m",
+      "sha256": "cbe84863be13ec583ff02b3944dde806f2da6237201a43130e4777154cfd71a3",
+      "license": "MIT"
+    },
+    {
+      "path": "third_party/modern_robotics/MatrixExp6.m",
+      "original": "Franka-Panda-Geometric-Simulator/third_party/modern_robotics/MatrixExp6.m",
+      "sha256": "748c9a4cca65dc3c6dd063d0f6f080c13c827c7f451bbf16e002902c9bc5c5e3",
+      "license": "MIT"
+    },
+    {
+      "path": "third_party/modern_robotics/NearZero.m",
+      "original": "Franka-Panda-Geometric-Simulator/third_party/modern_robotics/NearZero.m",
+      "sha256": "72a9fdccd78f48f527c383b5d0a5bf79539f0e159df71fded215215732e9dacc",
+      "license": "MIT"
+    },
+    {
+      "path": "third_party/modern_robotics/se3ToVec.m",
+      "original": "Franka-Panda-Geometric-Simulator/third_party/modern_robotics/se3ToVec.m",
+      "sha256": "43f906673c8d6b7342ac8bf621ceddf41481ea6e70c91204d02ee99a67701939",
+      "license": "MIT"
+    },
+    {
+      "path": "third_party/modern_robotics/so3ToVec.m",
+      "original": "Franka-Panda-Geometric-Simulator/third_party/modern_robotics/so3ToVec.m",
+      "sha256": "8ba3abe03e4a6f91a717ce689641947466589db6d33b938652697459cb0f1feb",
+      "license": "MIT"
+    },
+    {
+      "path": "third_party/modern_robotics/TransInv.m",
+      "original": "Franka-Panda-Geometric-Simulator/third_party/modern_robotics/TransInv.m",
+      "sha256": "bf7130d641eb9e0fff6ed2ba94cb29e145abe18ae24b65e46551ee3a0bde7c0c",
+      "license": "MIT"
+    },
+    {
+      "path": "third_party/modern_robotics/TransToRp.m",
+      "original": "Franka-Panda-Geometric-Simulator/third_party/modern_robotics/TransToRp.m",
+      "sha256": "2c95bb8a741c1625514b500ec3b5ef7747f1907a5dac7c4b66838c69baec9a0e",
+      "license": "MIT"
+    },
+    {
+      "path": "third_party/modern_robotics/VecTose3.m",
+      "original": "Franka-Panda-Geometric-Simulator/third_party/modern_robotics/VecTose3.m",
+      "sha256": "e2716ef82edd5aec6a44e9a99b28fb5af26783c3f7e3fb3508a021a7e6cfeb7f",
+      "license": "MIT"
+    },
+    {
+      "path": "third_party/modern_robotics/VecToso3.m",
+      "original": "Franka-Panda-Geometric-Simulator/third_party/modern_robotics/VecToso3.m",
+      "sha256": "2d9a30091126feb1435ef5b8e1ade8a99f9ca5c50ea4c7937736d1a0856fad58",
+      "license": "MIT"
+    }
+  ],
+  "inspected_repositories": [
+    {
+      "head": "3e41fa131a7b839b9075e4e8723d4e21631aded4",
+      "repository": "https://github.com/johnnyzxc5/Franka-Panda-Geometric-Simulator"
+    },
+    {
+      "head": "e2aefe2caac1244b42114dbd9ad3270810aa3267",
+      "repository": "https://github.com/johnnyzxc5/Kinova-Gen3-Geometric-Simulator"
+    }
+  ],
+  "web_sources": [
+    {
+      "url": "https://modernrobotics.northwestern.edu/nu-gm-book-resource/8-2-dynamics-of-a-single-rigid-body-part-2-of-2/",
+      "role": "Spatial inertia congruence and body-frame Newton-Euler equation",
+      "locator": "Official transcript, section 8.2"
+    },
+    {
+      "url": "https://www.fossen.biz/html/marineCraftModel.html",
+      "role": "Rigid plus added mass, marine damping and hydrostatics; source order linear first",
+      "locator": "Kinetics and mathematical formulation"
+    },
+    {
+      "url": "https://naomi.princeton.edu/wp-content/uploads/sites/744/2021/03/jggraver-thesis-4-11-05.pdf",
+      "role": "Background on glider moving masses, buoyancy and added mass",
+      "locator": "Abstract, printed pp. iii-iv; no numerical parameters transplanted"
+    },
+    {
+      "url": "https://doi.org/10.1109/48.972106",
+      "role": "Bibliographic background on coupled glider/moving-mass control",
+      "locator": "Princeton bibliographic record and abstract"
+    }
+  ]
+}

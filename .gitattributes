@@ -1,0 +1,19 @@
+* text=auto
+.gitattributes text eol=lf
+.gitignore text eol=lf
+LICENSE text eol=lf
+*.m text eol=lf
+*.md text eol=lf
+*.py text eol=lf
+*.ps1 text eol=lf
+*.tex text eol=lf
+*.json text eol=lf
+*.yml text eol=lf
+*.pdf binary
+*.png binary
+*.gif binary
+*.mp4 binary
+*.mat binary
+*.zip binary
+# Preserve exact third-party bytes for source-hash verification.
+third_party/modern_robotics/* -text -whitespace

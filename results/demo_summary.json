@@ -1,0 +1,24 @@
+{
+  "status": "PASS",
+  "matlab": "26.1.0.3312084 (R2026a) Update 4",
+  "duration_s": 80,
+  "step_s": 0.02,
+  "runtime_s": 2.1864544,
+  "position_refinement_m": 1.3131000327342374E-5,
+  "rotation_refinement_rad": 9.0192601370592585E-5,
+  "orthogonality_error": 1.223143433258244E-14,
+  "determinant_error": 7.8825834748386114E-15,
+  "base_equation_residual": 4.6205689967822685E-14,
+  "energy_residual_J": 0.00044787066710938461,
+  "energy_residual_half_step_J": 0.00010818315178617866,
+  "depth_range_m": [
+    3.7713210799227683,
+    8.2512872555228025
+  ],
+  "horizontal_range_m": 1.3871392719119069,
+  "max_joint_efforts": [
+    0.02808951023820026,
+    0.839922251556074,
+    271.19724591599078
+  ]
+}
